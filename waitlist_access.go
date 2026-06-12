@@ -1,7 +1,6 @@
 package lib
 
 import (
-	"encoding/json"
 	"strings"
 
 	"github.com/taubyte/go-sdk/database"

@@ -1,4 +1,4 @@
-module beta_handlers
+module lib
 
 go 1.19
 
