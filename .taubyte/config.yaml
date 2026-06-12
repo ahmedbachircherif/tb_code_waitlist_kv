@@ -1,0 +1,7 @@
+version: 1.00
+environment:
+  image: taubyte/go-wasi:latest
+  variables:
+    WAITLIST_ADMIN_KEY: "J58WY5QkT1Wy5CN26v6TtwiB9lbBe9S7"
+workflow:
+  - build
